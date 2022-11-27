@@ -4,7 +4,7 @@ import re
 import string
 
 # Command to execute:
-# python main.py -i <genome_samples>
+# dinucleotide_repeat_finder.py -i <genome_samples>
 
 chromosome_pattern = 'TGTGTGTGTGTGTGTGTG'
 
